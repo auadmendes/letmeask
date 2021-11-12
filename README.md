@@ -12,4 +12,15 @@
 
 
 - This project was made with <b>JavaScript - TypeScript - SCSS</b> and <b>HTML</b>
+- Download it and follow the steps.
+
+- <h4> Install the dependences </h4>
+
+> npm install
+
+- <h4> Start Project </h4>
+
+> npm start
+
+- You can find the [Figma project](https://www.figma.com/file/HMuxAdsylzTS1bA1xOboFO/Letmeask-(Copy)?node-id=0%3A1) here.
 - 🙃 Fun fact I'm still thinking I am <b>copying code<b>
