@@ -16,7 +16,7 @@
 
 - <h4> Install the dependences </h4>
 
-> npm install
+> npm install .
 
 - <h4> Start Project </h4>
 
